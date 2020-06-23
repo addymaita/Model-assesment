@@ -3,4 +3,3 @@ I'm working on my university final degree project, model assessing for machine l
 
 ![Alt text](project.PNG?raw=true)
 ![Alt text](herramienta_2.PNG?raw=true)
-![Alt text](herramienta_3.PNG?raw=true)
