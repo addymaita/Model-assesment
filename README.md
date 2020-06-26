@@ -4,4 +4,4 @@ I'm working on my university final degree project, model assessing for machine l
 ## This is the first app for regression models
 ![Alt text](project.PNG?raw=true)
 ## This is the second app for clasification models 
-![Alt text](herramienta_2.PNG?raw=true)
+![Alt text](image.PNG?raw=true)
